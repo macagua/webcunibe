@@ -27,9 +27,17 @@ Características
 Visualización previa
 ====================
 
-Visualización previa del tema de este sitio, se presenta a continuación:
+Captura de la pagina de inicio del sitio, se presenta a continuación:
 
-.. image:: https://raw.githubusercontent.com/macagua/webcunibe/master/screenshot.png
+.. image:: https://raw.githubusercontent.com/macagua/webcunibe/master/screenshot1.png
+
+Captura de la animación en formato Flash del sitio, se presenta a continuación:
+
+.. image:: https://raw.githubusercontent.com/macagua/webcunibe/master/screenshot2.png
+
+Captura de la animación en formato Flash en detalle del sitio, se presenta a continuación:
+
+.. image:: https://raw.githubusercontent.com/macagua/webcunibe/master/screenshot3.png
 
 Descargas
 =========
