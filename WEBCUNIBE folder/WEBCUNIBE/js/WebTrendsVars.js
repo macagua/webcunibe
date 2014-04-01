@@ -1,1 +1,0 @@
-var REGION="global";var LANGUAGE="sp";var MKTCOUNTRY="global";var DIVISION="domth/intlth";var PROPERTY="30216";ÿ
